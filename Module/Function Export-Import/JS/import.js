@@ -1,5 +1,3 @@
-const { myFun } = require("./export");
-
-import(myFun);
+import{myFun} from './export.js'
 
 myFun();
