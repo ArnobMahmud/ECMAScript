@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontWeightBold": "normal",
+    "editor.cursorSmoothCaretAnimation": true
+}
