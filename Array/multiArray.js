@@ -5,3 +5,4 @@ var africa = ["Morocco", "Albenia", "Ghana"];
 var world = [asia, europe, africa];
 
 console.log(world[1][2]);
+console.log(world[2][1]);
