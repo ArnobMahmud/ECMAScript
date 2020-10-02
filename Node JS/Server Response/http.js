@@ -6,8 +6,8 @@
 var http = require('http');
 
 var server = http.createServer(function(req, res){
-    res.end("Hello World");  // response
+    res.end("Hello World");  // res
 });
 
-server.listen(3000);    // port number madecls
+server.listen(3000);    // port number made
 console.log("Server successfully runned");
