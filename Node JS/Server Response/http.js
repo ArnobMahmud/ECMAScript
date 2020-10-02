@@ -6,7 +6,7 @@
 var http = require('http');
 
 var server = http.createServer(function(req, res){
-    res.end("Hello World");  // res
+    res.end("Hello World");  // response
 });
 
 server.listen(3000);    // port number made
