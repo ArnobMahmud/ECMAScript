@@ -4,5 +4,6 @@
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.fontWeightBold": "normal",
-    "editor.cursorSmoothCaretAnimation": true
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontFamily": "operator mono medium",
 }
