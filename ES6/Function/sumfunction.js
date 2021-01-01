@@ -4,8 +4,8 @@ let y = 7;
 function sum(p, q){
     p = x;
     q = y;
-    r = p + q
-    console.log(r)
+    r = p + q;
+    console.log(r);
 }
 
-sum(x, y)
+sum(x, y);
