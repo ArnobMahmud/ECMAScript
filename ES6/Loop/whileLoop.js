@@ -3,4 +3,3 @@ while (i < 20) {
     console.log("Echo from VS Code");
     i++;
 }
-

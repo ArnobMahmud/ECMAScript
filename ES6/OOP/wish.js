@@ -4,16 +4,15 @@
     Mail : arnob.tech.me@gmail.com    
 */
 
-let birthdayGirl = "Wish_person";
+let you = "Stalker";
 
-class Person {
-  wish() {
-    var WishText = (dataPass) => {
-      console.log(dataPass);
-    };
-    WishText("Happy Birthday " + birthdayGirl);
+class User {
+  greet() {
+    console.log(
+      "Assalamu-alaiqum " + you
+    );
   }
 }
 
-var fabrican = new Person();
-fabrican.wish();
+var randomGuys = new User();
+randomGuys.greet();
